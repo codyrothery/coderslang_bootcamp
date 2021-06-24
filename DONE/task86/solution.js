@@ -4,8 +4,8 @@
  * Make them constants.
  * */
 
-let name = 'Hero';
-let greeting = 'Good Day!'
+const name = 'Hero';
+const greeting = 'Good Day!'
 let count = 0;
 
 count = count + 1;
