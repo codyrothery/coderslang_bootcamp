@@ -4,7 +4,7 @@
  * Make sure all the variables names are written in camelCase.
  * */
 
-let welcome_message = "Hello!";
-let CodingSchedule = "24/7";
-let IS_WATCHER_ENABLED = true;
+let welcomeMessage = "Hello!";
+let codingSchedule = "24/7";
+let isWatcherEnabled = true;
 let salary = 300000;
